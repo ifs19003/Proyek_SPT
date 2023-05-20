@@ -2,6 +2,9 @@
 
 ### Nama Kelompok
 
- 1. Kristina Tampubolon (11S19010)
- 2. Deiva Imanuela Pasaribu (11S19028)
- 3. Hanna Suryani Simarmata (11S19063)
+ 1. Rafelli Simangunsong (11S19003)
+ 2. Tesalonika Siahaan (11S19007)
+ 3. Prawita Dwi (11S19025)
+ 4. Darel Pinem (11S19027)
+ 5. Rahmad Situmorang (11S19035)
+ 6. Yuliana Nainggolan (11S19058)
